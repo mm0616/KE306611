@@ -16,8 +16,7 @@ build:
 sphinx:
    configuration: conf.py
 
-formats:
-    - pdf
+
 
 
 # Optionally, but recommended,
