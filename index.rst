@@ -1,7 +1,7 @@
 
 .. toctree::
-   :maxdepth: 3
-   :caption: 
+   :maxdepth: 2
+   :caption: Contents:
 
 
    docs/2. Mixly/a.rst
