@@ -4,4 +4,4 @@
    :caption: Contents:
 
 
-   docs/2. Mixly/a.rst
+   docs/3.rst
