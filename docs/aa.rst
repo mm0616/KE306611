@@ -68,10 +68,7 @@ https://pan.baidu.com/s/1tJiKGUYVtE4VZKwZhCoy2w?pwd=jvmg
 
 3. 点击“上传”。
 
-   .. figure:: ./media/image-20250610151751682.png
-      :alt: image-20250610151751682
-
-      image-20250610151751682
+   |image11|
 
 3.6 项目
 --------
@@ -85,10 +82,8 @@ R3开发板和传感器扩展板。然后上传对应的测试代码，单独测
 
 特别注意：实验时，模块/传感器连接线材时，必须按照资料里的接线方法及位置，电源与信息脚不能错接，否则会损坏模块/传感器。
 
-
-. toctree::
+.. toctree::
     :maxdepth: 1
-
 
     Project/Project1
     Project/Project2
@@ -132,18 +127,15 @@ R3开发板和传感器扩展板。然后上传对应的测试代码，单独测
     Project/Project40
     Project/Project41
     Project/Project42
-
-
+    
 
 **传感器/模块组合实验课程**
 
 前面课程中，单独测试了传感器/模块的功能，功能比较单一。在此，可以将多个传感器/模块搭配使用，组合出各种各样的功能。传感器/模块种类比较多，以下选择几款比较经典的组合实验。也可以根据自己的想法，自己设置代码，组合出你想要的特别的功能。
 
-
-. toctree::
+.. toctree::
     :maxdepth: 1
-
-    Project/Project42
+    
     Project/Project43
     Project/Project44
     Project/Project45
@@ -156,7 +148,6 @@ R3开发板和传感器扩展板。然后上传对应的测试代码，单独测
     Project/Project52
     Project/Project53
 
-
 .. |image1| image:: ./media/image-20250610134847834.png
 .. |image2| image:: ./media/image-20250610135141637.png
 .. |image3| image:: ./media/image-20250610135733798.png
@@ -167,3 +158,4 @@ R3开发板和传感器扩展板。然后上传对应的测试代码，单独测
 .. |image8| image:: ./media/image-20250610150604640.png
 .. |image9| image:: ./media/image-20250610151244614.png
 .. |image10| image:: ./media/image-20250610151446877.png
+.. |image11| image:: ./media/image-20250610151751682.png
